@@ -1,4 +1,6 @@
-# I'm a Salesforce Developer passionate about bridging traditional business solutions with Web3 innovations. 
+# Hi there
+
+## I'm a Salesforce Developer passionate about bridging traditional business solutions with Web3 innovations. 
 
 💼 **What I Do**
 - Building robust solutions on Salesforce platform
