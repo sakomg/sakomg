@@ -1,16 +1,18 @@
-## Hi there 👋
+I'm a Salesforce Developer passionate about bridging traditional business solutions with Web3 innovations. 
+
+💼 **What I Do**
+- Building robust solutions on Salesforce platform
+- Developing Web3 applications
+- Creating automated business solutions
+- Crafting Telegram bots for enhanced user engagement
+
+🔧 **Current Focus**
+- Business process automation
+- Blockchain technology integration  
+- CRM development
+- Bot development
 
 <!--
-**sakomg/sakomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Salesforce development, Web3, and automation
+- 📫 How to reach me: @saskakomegunov (telegram)
 -->
