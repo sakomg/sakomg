@@ -11,5 +11,5 @@
 - Bot development
 
 📫 **How to reach me**
-telegram: @saskakomegunov
-mail: alekomegunov@gmail.com
+- telegram: @saskakomegunov
+- mail: alekomegunov@gmail.com
