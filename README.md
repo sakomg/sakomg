@@ -33,8 +33,3 @@ Owning the portal layer end-to-end — LWC components, Apex, and CPQ-based order
 Delivered end-to-end Salesforce implementations for several large automotive dealer groups across North America. Gathered requirements, shaped solutions, and led dev team handoff.
 
 `CRM` `Automotive` `Team lead` `Requirements`
-
----
-
-✈️ Telegram: [@saskakomegunov](https://t.me/saskakomegunov)
-✉️ Email: [alekomegunov@gmail.com](mailto:alekomegunov@gmail.com)
