@@ -1,15 +1,45 @@
-💼 **What I Do**
-- Building robust solutions on Salesforce platform
-- Developing Web3 applications
-- Creating automated business solutions
-- Crafting Telegram bots for enhanced user engagement
+## Salesforce Developer & Web3 Builder
 
-🔧 **Current Focus**
-- Business process automation
-- Blockchain technology integration  
-- CRM development
-- Bot development
+> Building reliable systems — from enterprise CRM to on-chain automation
 
-📫 **How to reach me**
-- telegram: @saskakomegunov
-- mail: alekomegunov@gmail.com
+---
+
+### Experience
+
+**☁️ Senior Salesforce Developer** — Enterprise CPQ · Data Center industry
+
+Owning the portal layer end-to-end — LWC components, Apex, and CPQ-based order flows. Drive architecture decisions and maintain consistent, on-time delivery across complex quote-to-order cycles.
+
+`LWC` `Apex` `CPQ` `Experience Cloud` `Order management`
+
+---
+
+**🚗 Salesforce Consultant — Automotive** — Multi-dealership CRM implementations
+
+Delivered end-to-end Salesforce implementations for several large automotive dealer groups across North America. Gathered requirements, shaped solutions, and led dev team handoff.
+
+`CRM` `Automotive` `Team lead` `Requirements`
+
+---
+
+### Side projects
+
+**⛓️ TON Arbitrage System** — Profitable for 12+ months · Live clients
+
+Built and maintain a fully automated arbitrage tool on the TON blockchain. Consistently profitable over nearly a year. Includes a client-facing management portal for onboarding and monitoring.
+
+`TON` `Blockchain` `Automation` `Web3` `Portal`
+
+---
+
+**✈️ Freepot — No-Loss Lottery** — Telegram Mini App
+
+A Telegram mini app where users enter a prize draw at zero risk — deposits are returned in full, with winners funded by yield. Built on-chain for transparency.
+
+`Mini App` `Telegram` `DeFi` `Smart contracts`
+
+---
+
+📬 **Get in touch**
+- Telegram: [@saskakomegunov](https://t.me/saskakomegunov)
+- Email: [alekomegunov@gmail.com](mailto:alekomegunov@gmail.com)
