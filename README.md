@@ -6,11 +6,11 @@
 
 ### Projects
 
-**TON Arbitrage System** — Profitable for 1+ year · Live clients
+**Arbitrage System** — Profitable for 1+ year · Live clients
 
-Built and maintain a fully automated arbitrage tool on the TON blockchain. Consistently profitable over nearly a year. Includes a client-facing management portal for onboarding and monitoring.
+Built and maintain a fully automated arbitrage tool on the TON & Aptos blockchain. Consistently profitable over nearly a year. Includes a client-facing management portal for onboarding and monitoring.
 
-`TON` `Blockchain` `Automation` `Web3` `Portal`
+`TON` `Aptos` `Blockchain` `Automation` `Web3` `Portal`
 
 **Freepot — No-Loss Lottery** — Telegram Mini App
 
